@@ -10,3 +10,8 @@
 ## aerial
 - DOTA
 
+## simulation
+- https://github.com/aitorzip/DeepGTAV
+- https://github.com/carla-simulator/carla
+- https://github.com/Microsoft/AirSim
+
