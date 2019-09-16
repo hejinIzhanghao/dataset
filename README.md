@@ -9,6 +9,10 @@
 
 ## aerial
 - DOTA
+http://captain.whu.edu.cn/dotaweb/
+- COWC
+https://gdo152.llnl.gov/cowc/
+https://github.com/LLNL/cowc/tree/master/COWC-M
 
 ## simulation
 - https://github.com/aitorzip/DeepGTAV
