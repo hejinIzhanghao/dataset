@@ -13,6 +13,9 @@ http://captain.whu.edu.cn/dotaweb/
 - COWC
 https://gdo152.llnl.gov/cowc/
 https://github.com/LLNL/cowc/tree/master/COWC-M
+- visdrone
+http://www.aiskyeye.com/
+https://github.com/zhaobaiyu/visdrone
 
 ## simulation
 - https://github.com/aitorzip/DeepGTAV
