@@ -38,3 +38,9 @@ a thermal infrared pedestrian tracking benchmark
 - https://github.com/yycho0108/google-images-drones-dataset
 - https://github.com/VictoriaVan/DroneData
 
+## Fire
+- https://github.com/cair/Fire-Detection-Image-Dataset
+- https://github.com/tobybreckon/fire-detection-cnn
+- https://github.com/DeepQuestAI/Fire-Smoke-Dataset
+- https://github.com/LeadingIndiaAI/Forest-Fire-Detection-through-UAV-imagery-using-CNNs
+- https://github.com/sallamander/forest-fires
