@@ -16,6 +16,7 @@ https://github.com/LLNL/cowc/tree/master/COWC-M
 - visdrone
 http://www.aiskyeye.com/
 https://github.com/zhaobaiyu/visdrone
+https://github.com/VisDrone/VisDrone-Dataset
 
 ## simulation
 - https://github.com/aitorzip/DeepGTAV
@@ -29,3 +30,11 @@ This is a publicly available benchmark dataset for testing and evaluating novel 
 
 - https://github.com/QiaoLiuHit/PTB-TIR_Evaluation_toolkit
 a thermal infrared pedestrian tracking benchmark
+
+
+## UAV
+- https://github.com/SlapBot/drone-detection
+- https://github.com/chuanenlin/drone-net
+- https://github.com/yycho0108/google-images-drones-dataset
+- https://github.com/VictoriaVan/DroneData
+
