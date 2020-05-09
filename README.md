@@ -33,6 +33,7 @@ a thermal infrared pedestrian tracking benchmark
 
 
 ## UAV
+- https://github.com/ZhaoJ9014/Anti-UAV
 - https://github.com/SlapBot/drone-detection
 - https://github.com/chuanenlin/drone-net
 - https://github.com/yycho0108/google-images-drones-dataset
