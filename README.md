@@ -6,6 +6,8 @@
 - apolloscape.auto
 - cityspaces
 - KITTI
+- https://www.nuscenes.org/
+- https://github.com/nutonomy/nuscenes-devkit
 
 ## aerial
 - DOTA
