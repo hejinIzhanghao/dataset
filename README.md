@@ -2,6 +2,7 @@
 
 ## awesome
 - http://homepages.inf.ed.ac.uk/rbf/CVonline/Imagedbase.htm
+- https://blog.csdn.net/orDream/article/details/91606597?utm_medium=distribute.pc_relevant_download.none-task-blog-baidujs-6.nonecase&depth_1-utm_source=distribute.pc_relevant_download.none-task-blog-baidujs-6.nonecase
 
 ## auto driving
 - waymo.com/open/
