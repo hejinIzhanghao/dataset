@@ -47,3 +47,9 @@ a thermal infrared pedestrian tracking benchmark
 - https://github.com/DeepQuestAI/Fire-Smoke-Dataset
 - https://github.com/LeadingIndiaAI/Forest-Fire-Detection-through-UAV-imagery-using-CNNs
 - https://github.com/sallamander/forest-fires
+
+## Boat
+- http://www.lmars.whu.edu.cn/prof_web/shaozhenfeng/datasets/SeaShips(7000).zip
+- http://vcipl-okstate.org/pbvs/bench/Data/12/VAIS.zip
+
+
