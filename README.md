@@ -1,4 +1,8 @@
 # dataset
+
+## awesome
+- http://homepages.inf.ed.ac.uk/rbf/CVonline/Imagedbase.htm
+
 ## auto driving
 - waymo.com/open/
 - argo.ai/2019/06/introduction
@@ -50,6 +54,7 @@ a thermal infrared pedestrian tracking benchmark
 
 ## Boat
 - http://www.lmars.whu.edu.cn/prof_web/shaozhenfeng/datasets/SeaShips(7000).zip
+- http://www.dis.uniroma1.it/~labrococo/MAR/index.htm
 - http://vcipl-okstate.org/pbvs/bench/Data/12/VAIS.zip
 - https://github.com/CAESAR-Radi/SAR-Ship-Dataset
 
